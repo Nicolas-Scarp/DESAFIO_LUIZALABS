@@ -3,7 +3,6 @@ import sla
 dic = {
     "1":sla.desafio_1,
     "2":sla.desafio_2,
-    "3":sla.desafio_2
 }
 
 escolha = input("Qual código quer rodar? ")
