@@ -13,6 +13,5 @@ def desafio_1():
     else:
         print("Código Não Encontrado!")
 
-def desafio_2():
-    print()
-  
+
+    
