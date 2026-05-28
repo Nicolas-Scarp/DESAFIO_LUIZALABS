@@ -1,4 +1,5 @@
-def desafio_1():
+#Exercite os Fundamentos sobre Python
+def desafio_de_código_1():
     entrada = input().strip(" ")
     preco_str, codigo_promocao = entrada.split()
 
@@ -13,7 +14,8 @@ def desafio_1():
     else:
         print("Código Não Encontrado!")
 
-def desafio_2():
+#Exercite os Fundamentos sobre Python
+def desafio_de_código_2():
     produtos = input().strip().split()
 
     contador=0
@@ -29,5 +31,13 @@ def desafio_2():
     produto=produtos[indice]
 
     print(produto)
+
+#Modelando o Sistema Bancário em POO com Python
+def desafio_de_projeto_1():
+    pass
+
+#Modelando o Sistema Bancário em POO com Python
+def desafio_de_projeto_2():
+    pass
   
     
